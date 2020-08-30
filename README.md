@@ -4,7 +4,7 @@ Hello World!! I am Mohit Mohan, junior at Computer Science department at IIT Kan
 
 ### About the project
 
-Cups-browsed, a daemon for browsing and filtering printers available on a network. But the point where it lacks is it takes a great amount of time to create queues for all the printers. So from a users' perspective it is important to reduce the time taken to create the queues. Thus multi-threading is the way to do it, as we make some part of the code to run parallelly so that we can decrease the time it takes to create the queues for the printers.  
+Cups-browsed, a daemon for browsing and filtering printers available on a network. But the time taken to create print queues for all the printers increases greatly as the number of printers increases. So from a users' perspective it is important to reduce the time taken to create the queues. Thus multi-threading is the way to do it, as we make some part of the code to run parallelly so that we can decrease the time it takes to create the queues for the printers.  
 
 ### Tasks Done
 
