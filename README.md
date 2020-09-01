@@ -21,9 +21,9 @@ Commits can be found at this [link](https://github.com/mohitmo/cups-filters/comm
 
 There are some things that we plan to do:
 
-1. Optimising the current code, so that we can time taken to create queues even more.
+1. Optimising the current code, so that we can improve upon time taken to create queues even more.
 2. Parallelise other events for cups-browsed, such as job processing and printer deletion.
 
 ### Acknowledgement 
 
-I would like to thank my mentors [Till Kamppeter](https://github.com/tillkamppeter) and [Deepak Patankar](https://github.com/deepak0405) for guiding and helping me in this project. It was great experience working and communicating with them.
+I would like to thank my mentors [Till Kamppeter](https://github.com/tillkamppeter) and [Deepak Patankar](https://github.com/deepak0405) for guiding and helping me in this project. It was great experience working and communicating with them. I would also like to thank Aveek Basu for providing me this opportunity to have a very productive summer. 
